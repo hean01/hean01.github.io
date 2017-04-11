@@ -5,18 +5,13 @@ theme = "beautifulhugo"
 
 [Params]
 	subtitle = "nothing about everything"
-	logo = "img/avatar-icon.png"
+	logo = "img/avatar.svg"
 	rss = true
 
 [Author]
 	name = "Henrik Andersson"
 	email = "henrik.4e@gmail.com"
 	github = "hean01"
-
-[[menu.main]]
-	name = "Blog"
-	url = "/"
-	weight = 1
 
 [[menu.main]]
 	name = "Tags"
