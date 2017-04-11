@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Meandrous</title>
-    <link>https://hean01.github.io/</link>
-    <description>Recent content on Meandrous</description>
+    <title>Brewing on Meandrous</title>
+    <link>https://hean01.github.io/categories/brewing/</link>
+    <description>Recent content in Brewing on Meandrous</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
     <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hean01.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hean01.github.io/categories/brewing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -31,16 +31,6 @@ Day 1 - 2017-04-03 Added the Fermaid-K nutrients as per receipe and stired a lit
       <author>henrik.4e@gmail.com (Henrik Andersson)</author>
       <guid>https://hean01.github.io/post/pgw-mead-startkit/</guid>
       <description>I bought a mead start kit from PGW which included everything to start to create mead, all the equipments and the sanitizer, yeast and nutrient. This start kit is for creating 4 litres (1 gallon) show mead which is mead in its purest form, honey, water and yeast. The kit also includes a brewing instruction which I will describe below. This post will also be updated with a brew log as a reference for future brewing.</description>
-    </item>
-    
-    <item>
-      <title>Midi sync Volca beats with Analog four</title>
-      <link>https://hean01.github.io/post/midi-sync-volca-beats/</link>
-      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/post/midi-sync-volca-beats/</guid>
-      <description>I just recently got my Volca Beats analog drum machine and wanted to sync it up with my Analog Four. To enable Volca Beats to sync with external device using midi you need to make sure that clock source is configured to auto.
-While holding down func key and power on the volca device, you will enter configuration mode of the Volca Beats. Pressing play button will cancel any changes, record will save the changes and reboot your device.</description>
     </item>
     
   </channel>

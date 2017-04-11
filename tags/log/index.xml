@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Log on Meandrous</title>
+    <link>https://hean01.github.io/tags/log/</link>
+    <description>Recent content in Log on Meandrous</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
+    <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hean01.github.io/tags/log/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>M01 - My first mead</title>
+      <link>https://hean01.github.io/post/m01-my-first-mead/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/m01-my-first-mead/</guid>
+      <description>This post will be updated with a log of my journey brewing the show mead using the starter kit bought from PGW mentioned in earlier blog post.
+Day 0 - 2017-04-02 I followed the receipe from the begin to end and was about spot on every step. I measured the mead for an OG (Original Gravity) 1.060 and put the carboy in a good place for fermentation.
+Day 1 - 2017-04-03 Added the Fermaid-K nutrients as per receipe and stired a little and boom the foamy scum rasied out of the carboy and seemed to never stop.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,9 +6,30 @@
     <description>Recent content in Categories on Meandrous</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
+    <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
+    <lastBuildDate>Sun, 02 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brewing</title>
+      <link>https://hean01.github.io/categories/brewing/</link>
+      <pubDate>Sun, 02 Apr 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/categories/brewing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronc Music</title>
+      <link>https://hean01.github.io/categories/electronc-music/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/categories/electronc-music/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

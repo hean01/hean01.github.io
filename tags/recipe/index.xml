@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recipe on Meandrous</title>
+    <link>https://hean01.github.io/tags/recipe/</link>
+    <description>Recent content in Recipe on Meandrous</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
+    <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
+    <lastBuildDate>Fri, 31 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hean01.github.io/tags/recipe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PGW Show mead starter kit</title>
+      <link>https://hean01.github.io/post/pgw-mead-startkit/</link>
+      <pubDate>Fri, 31 Mar 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/pgw-mead-startkit/</guid>
+      <description>I bought a mead start kit from PGW which included everything to start to create mead, all the equipments and the sanitizer, yeast and nutrient. This start kit is for creating 4 litres (1 gallon) show mead which is mead in its purest form, honey, water and yeast. The kit also includes a brewing instruction which I will describe below. This post will also be updated with a brew log as a reference for future brewing.</description>
+    </item>
+    
+  </channel>
+</rss>
