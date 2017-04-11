@@ -2,9 +2,9 @@
 date = "2017-04-02"
 title = "M01 - My first mead"
 subtitle = "Log of brewing the PGW startkit show mead"
-tags = ["brew", "mead", "log" ]
+tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-10"
+lastmod = "2017-04-11"
 +++
 
 This post will be updated with a log of my journey brewing the show

@@ -2,7 +2,7 @@
 date = "2017-04-09"
 title = "M02 - JAO mead"
 subtitle = "Log of brewing the JAO mead"
-tags = ["brew", "mead", "log" ]
+tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
 lastmod = "2017-04-11"
 +++
