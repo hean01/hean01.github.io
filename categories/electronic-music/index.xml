@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Electronic Music on Meandrous</title>
+    <link>https://hean01.github.io/categories/electronic-music/</link>
+    <description>Recent content in Electronic Music on Meandrous</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
+    <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
+    <lastBuildDate>Thu, 03 Dec 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hean01.github.io/categories/electronic-music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Midi sync Volca beats with Analog four</title>
+      <link>https://hean01.github.io/post/midi-sync-volca-beats/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/midi-sync-volca-beats/</guid>
+      <description>I just recently got my Volca Beats analog drum machine and wanted to sync it up with my Analog Four. To enable Volca Beats to sync with external device using midi you need to make sure that clock source is configured to auto.
+While holding down func key and power on the volca device, you will enter configuration mode of the Volca Beats. Pressing play button will cancel any changes, record will save the changes and reboot your device.</description>
+    </item>
+    
+  </channel>
+</rss>
