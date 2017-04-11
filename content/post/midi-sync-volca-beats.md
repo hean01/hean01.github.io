@@ -2,7 +2,7 @@
 date = "2015-12-03"
 title = "Midi sync Volca beats with Analog four"
 tags = ["music", "volca", "midi" ]
-categories = ["Electronc Music"]
+categories = ["Electronic Music"]
 +++
 
 I just recently got my Volca Beats analog drum machine and wanted to

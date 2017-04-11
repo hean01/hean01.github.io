@@ -29,7 +29,7 @@ fermentation as started. I measured 24 bpm @ 20:00 and 36 bpm @ 24:00.
 
 ### Day 2 - 2017-04-11
 
-Measured 32 BPM before I went to work @ 06:00. When I got home I took a
+Measured 32 bpm before I went to work @ 06:00. When I got home I took a
 smell of it and it denfinitly have some orange smell to it. I also
 measured 39 bpm @ 18:00. It looks very active now and there is some
 foam building up on top of the must and the raisins does looks like
