@@ -3,11 +3,22 @@ languageCode = "en-us"
 title = "Meandrous"
 theme = "beautifulhugo"
 
-[taxonomies]
-	category = "categories"
-	tags = "tags"
+[Params]
+	subtitle = "nothing about everything"
+	logo = "img/avatar-icon.png"
+	rss = true
 
-[params]
-	githubuser = "hean01"
-	description = "nothing about everything"
-	author = "Henrik Andersson"
+[Author]
+	name = "Henrik Andersson"
+	email = "henrik.4e@gmail.com"
+	github = "hean01"
+
+[[menu.main]]
+	name = "Blog"
+	url = "/"
+	weight = 1
+
+[[menu.main]]
+	name = "Tags"
+	url = "/tags"
+	weight = 3
