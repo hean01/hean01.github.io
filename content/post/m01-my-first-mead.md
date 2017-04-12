@@ -4,12 +4,13 @@ title = "M01 - My first mead"
 subtitle = "Log of brewing the PGW startkit show mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-11"
+lastmod = "2017-04-12"
 +++
 
 This post will be updated with a log of my journey brewing the show
 mead using the starter kit bought from PGW mentioned in earlier [blog
 post](../pgw-mead-startkit/).
+
 
 ### Day 0 - 2017-04-02
 
@@ -73,3 +74,14 @@ fermentation process. There yeast seems to have settled on the bottom
 of the carboy and the mead seems a bit clearer then last days. I
 decided to rack this into another carboy to remove the sediment and
 measure the SG (Single Gravity) in one week eg. 2017-04-16.
+
+
+### Day 11 - 2017-04-12
+
+Took a bpm metering of @ 18:00 and measured 0.2 bpm. This is about 1
+burp per 5 minutes. As you can see on the image below, the yeast have
+settled and im very curious what the SG is right now. There are signs
+of something floating around at the top which looks like the Fermaid-K
+nutrients added.
+
+![settling](/img/m01_mead_settling.jpg)

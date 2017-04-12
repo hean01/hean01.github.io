@@ -4,12 +4,13 @@ title = "M02 - JAO mead"
 subtitle = "Log of brewing the JAO mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-11"
+lastmod = "2017-04-12"
 bigimg = [{src = "/img/jao_mead.jpg"}]
 +++
 
 This post will be updated with a log of brew of one gallon
-[JAO Mead](../jao-mead).
+[JAO Mead](../jao-mead). I have changed the recipe using D47 yeast as
+described in the linked post.
 
 ### Day 0 - 2017-04-09
 
@@ -36,3 +37,9 @@ foam building up on top of the must and the raisins does looks like
 reverting back to grapes.
 
 ![fermentation](/img/jao_mead.jpg)
+
+
+### Day 3 - 2017-04-12
+
+Smells and looks good, fermentation still running good at 37 bpm @
+18:00. Let's take a look at it in a few days.
