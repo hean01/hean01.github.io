@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Sun, 09 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/tags/mead/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mead maths</title>
+      <link>https://hean01.github.io/post/mead-general/</link>
+      <pubDate>Thu, 13 Apr 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/mead-general/</guid>
+      <description>In this post I will talk about how to calculate sugar volums for targeting a sweetness and or alcohol of a mead. First off I found following fact:
+17g sugar in one litre liquid gives 1% alcohol  and I also found that gotmead.com mead calculator uses:
+2.6462g sugar for 1° Oe in one litre liquid  Lets take my first PGW mead as an example. The receipt is 1.25Kg honey in 4 litre water.</description>
+    </item>
     
     <item>
       <title>M02 - JAO mead</title>
