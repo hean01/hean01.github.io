@@ -4,7 +4,7 @@ title = "M01 - My first mead"
 subtitle = "Log of brewing the PGW startkit show mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-12"
+lastmod = "2017-04-13"
 +++
 
 This post will be updated with a log of my journey brewing the show
@@ -85,3 +85,26 @@ of something floating around at the top which looks like the Fermaid-K
 nutrients added.
 
 ![settling](/img/m01_mead_settling.jpg)
+
+
+### Day 12 - 2017-04-13
+
+Today I racked the mead into another carboy. I didn't have the amount
+of mead to fill up to the top, so I used our soda streamer to push
+some co2 into the carboy before siphon over the mead. I also took a
+sample of SG and I measured up 0.98 which is a very dry mead. The
+taste sample was yeast and alcohol but there were some sweetness. I
+guess ageing it for a few month will be good.
+
+My intention was to sweeten it with honey but changed my mind. I want
+to know what an aged FG 0.98 mead taste like. I messed up with the OG
+reading but I used mead calculator and got these figures:
+
+	1.25Kg honey with 79.6% sugar volume in 4 litre water give OG 1.094
+
+with the formula following the receipt from PGW to calculate %ABV I
+get the following results:
+
+	(OG-FG)*131.25 = (1.096-0.98)*131.25 = 0.114*131.25 = 14.96%
+
+Now lets bulk age this mead and I will test it in 3 months.
