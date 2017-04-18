@@ -4,7 +4,7 @@ title = "M03 - Medium mead"
 subtitle = "Log of brewing the PGW mead with a more honey"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-17"
+lastmod = "2017-04-18"
 +++
 
 This time I wanted to set a sweeter batch of mead. I followed the
@@ -41,3 +41,12 @@ Next time I will fill 4 litre of water in the carboy and make an mark
 and then stir honey with 2 litre water, add it to the carboy and then
 fill up with water to the marking to get exactly 4 litre must.
 
+
+### Day 1 - 2017-04-18
+
+Checked the bpm 6:00 and measured 3 burps per minute. Came home and
+did another reading of 68 bpm @ 20:00. Today we are going to feed 1.5g
+Fermaid-K and then stir some to release the oxygen. I'll warn you, do
+this very carefully beacuse it will foam out of the carboy. Did this
+procedure @ 21:00 and let it settle for a while. Did another reading
+of 82 bpm @ 21:15.

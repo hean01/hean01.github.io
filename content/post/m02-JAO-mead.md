@@ -4,7 +4,7 @@ title = "M02 - JAO mead"
 subtitle = "Log of brewing the JAO mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-12"
+lastmod = "2017-04-18"
 bigimg = [{src = "/img/jao_mead.jpg"}]
 +++
 
@@ -43,3 +43,12 @@ reverting back to grapes.
 
 Smells and looks good, fermentation still running good at 37 bpm @
 18:00. Let's take a look at it in a few days.
+
+
+### Day 9 - 2017-04-18
+
+I inspected the carboy and could see some settlement on the bottom, a
+few raisins has sunken too. Took another reading of burps per minute
+28.6 bpm @ 20:00. It smells good and I need to lookup when to rack
+this mead eg. removing the oranges etc. I'm a bit worried about it
+goes down the drain.
