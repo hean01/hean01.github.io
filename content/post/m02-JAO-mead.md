@@ -58,3 +58,10 @@ few raisins has sunken too. Took another reading of burps per minute
 28.6 bpm @ 20:00. It smells good and I need to lookup when to rack
 this mead eg. removing the oranges etc. I'm a bit worried about it
 goes down the drain.
+
+
+### Day 10 - 2017-04-19
+
+This batch is continuing its fermentation in a steady speed compared
+to batch m01 and m03. Made a few burps per minute reading this day, started
+with 28 bpm @ 08:00, 15.8 bpm @ 18:20 and 19.34 bpm @ 20:25.
