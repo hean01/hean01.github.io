@@ -12,6 +12,12 @@ This post will be updated with a log of brew of one gallon
 [JAO Mead](../jao-mead). I have changed the recipe using D47 yeast as
 described in the linked post.
 
+{{< graph "/json/m02_bpm.json" >}}
+
+Above is an graph of measured burps per minute (bpm) over time of this
+brew log, showing the fermentation process.
+
+
 ### Day 0 - 2017-04-09
 
 I followed the receipe from my earlier [blog post](../jao-mead). I

@@ -8,9 +8,13 @@ lastmod = "2017-04-13"
 +++
 
 This post will be updated with a log of my journey brewing the show
-mead using the starter kit bought from PGW mentioned in earlier [blog
-post](../pgw-mead-startkit/).
+mead using the starter kit bought from PGW mentioned in earlier
+[blog post](../pgw-mead-startkit/).
 
+{{< graph "/json/m01_bpm.json" >}}
+
+Above is an graph of measured burps per minute (bpm) over time of this
+brew log, showing the fermentation process.
 
 ### Day 0 - 2017-04-02
 
