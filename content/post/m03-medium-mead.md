@@ -12,6 +12,10 @@ This time I wanted to set a sweeter batch of mead. I followed the
 1.25Kg to 1.5Kg. I will updated this post with more information during
 the timeline of fermentation and aging.
 
+{{< graph "/json/m03_bpm.json" >}}
+
+Above is an graph of measured burps per minute (bpm) over time of this
+brew log, showing the fermentation process.
 
 ### Day 0 - 2017-04-17
 
@@ -50,3 +54,10 @@ Fermaid-K and then stir some to release the oxygen. I'll warn you, do
 this very carefully beacuse it will foam out of the carboy. Did this
 procedure @ 21:00 and let it settle for a while. Did another reading
 of 82 bpm @ 21:15.
+
+
+### Day 2 - 2017-04-19
+
+Today it is time for a stir to release oxygen / co2. I started with a
+reading of 92 bpm @ 08:00 and 64 bpm @ 18:30. Did the stirring at
+20:15 and let it settle a bit before another reading of 46.26 bpm.
