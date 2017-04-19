@@ -1,0 +1,68 @@
+{{ $datafile := (index .Params 0) }}
+
+<link type="text/css" rel="stylesheet" href="/css/graph.css">
+<script src="/js/jquery-3.2.1.min.js"></script>
+<script src="/js/d3.v3.js"></script>
+<script src="/js/rickshaw.min.js"></script>
+<script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+
+<style>
+#chart_container {
+        position: relative;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#chart {
+        position: relative;
+        left: 40px;
+}
+
+.rickshaw_graph .x_tick .title {
+    bottom: -24px;
+    left: -18px;
+}
+
+#y_axis {
+position: absolute;
+top: 0;
+bottom: 0;
+width: 40px;
+}
+</style>
+
+<div id="chart_container">
+  <div id="y_axis"></div>
+  <div id="chart"></div>
+  <div id="x_axis"></div>
+</div>
+<script>
+
+$.getJSON({{ $datafile }}, function(data) {
+
+    var graph = new Rickshaw.Graph({
+	element: document.getElementById("chart"),
+	width: 480,
+	stroke: true,
+	renderer: 'area',
+	xScale: d3.time.scale(),
+	series: [{color: 'steelblue', data: data }]
+    });
+
+    graph.render();
+
+    var xAxis = new Rickshaw.Graph.Axis.Time({
+	graph: graph,
+	orientation: 'bottom',
+	element: document.getElementById('x_axis'),
+    });
+    xAxis.render();
+
+    var yAxis = new Rickshaw.Graph.Axis.Y({
+	graph: graph,
+	orientation: 'left',
+	element: document.getElementById('y_axis'),
+    });
+    yAxis.render();
+
+});
+
+</script>
