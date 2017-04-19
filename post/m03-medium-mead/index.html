@@ -139,6 +139,79 @@
 1.25Kg to 1.5Kg. I will updated this post with more information during
 the timeline of fermentation and aging.</p>
 
+
+
+<link type="text/css" rel="stylesheet" href="/css/graph.css">
+<script src="/js/jquery-3.2.1.min.js"></script>
+<script src="/js/d3.v3.js"></script>
+<script src="/js/rickshaw.min.js"></script>
+<script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+
+<style>
+#chart_container {
+        position: relative;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#chart {
+        position: relative;
+        left: 40px;
+}
+
+.rickshaw_graph .x_tick .title {
+    bottom: -24px;
+    left: -18px;
+}
+
+#y_axis {
+position: absolute;
+top: 0;
+bottom: 0;
+width: 40px;
+}
+</style>
+
+<div id="chart_container">
+  <div id="y_axis"></div>
+  <div id="chart"></div>
+  <div id="x_axis"></div>
+</div>
+<script>
+
+$.getJSON("/json/m03_bpm.json", function(data) {
+
+    var graph = new Rickshaw.Graph({
+	element: document.getElementById("chart"),
+	width: 480,
+	stroke: true,
+	renderer: 'area',
+	xScale: d3.time.scale(),
+	series: [{color: 'steelblue', data: data }]
+    });
+
+    graph.render();
+
+    var xAxis = new Rickshaw.Graph.Axis.Time({
+	graph: graph,
+	orientation: 'bottom',
+	element: document.getElementById('x_axis'),
+    });
+    xAxis.render();
+
+    var yAxis = new Rickshaw.Graph.Axis.Y({
+	graph: graph,
+	orientation: 'left',
+	element: document.getElementById('y_axis'),
+    });
+    yAxis.render();
+
+});
+
+</script>
+
+
+<p>Above is an graph of measured burps per minute (bpm) over time of this
+brew log, showing the fermentation process.</p>
+
 <h3 id="day-0-2017-04-17">Day 0 - 2017-04-17</h3>
 
 <p>I blended 1.5 kg honey with 2 litre of warm water. Poured over to
@@ -175,6 +248,12 @@ Fermaid-K and then stir some to release the oxygen. I&rsquo;ll warn you, do
 this very carefully beacuse it will foam out of the carboy. Did this
 procedure @ 21:00 and let it settle for a while. Did another reading
 of 82 bpm @ 21:15.</p>
+
+<h3 id="day-2-2017-04-19">Day 2 - 2017-04-19</h3>
+
+<p>Today it is time for a stir to release oxygen / co2. I started with a
+reading of 92 bpm @ 08:00 and 64 bpm @ 18:30. Did the stirring at
+20:15 and let it settle a bit before another reading of 46.26 bpm.</p>
 
     </article>
 
