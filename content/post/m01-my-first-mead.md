@@ -4,7 +4,7 @@ title = "M01 - My first mead"
 subtitle = "Log of brewing the PGW startkit show mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-13"
+lastmod = "2017-04-20"
 +++
 
 This post will be updated with a log of my journey brewing the show
@@ -112,3 +112,19 @@ get the following results:
 	(OG-FG)*131.25 = (1.096-0.98)*131.25 = 0.114*131.25 = 14.96%
 
 Now lets bulk age this mead and I will test it in 3 months.
+
+
+### Day 19 - 2017-04-20
+
+I bought a Vaco Vin today, a manual pump tool with cap for wine
+bottles that is used to pump out air. This vacuum in draws out the co2
+in the mead to make it flat. The mead is definitly clearing up and
+there are some subtile sediment visible on the bottom, not that
+distinct as first one created from the fermentation.
+
+I pumped up vaccum and I noticed that bubbles started to raise to the
+surface of the mead. I will let this vacuum cap sit for a day or two
+and when there is not more visible bubbles raising I will rack to wine
+bottles.
+
+![vacuum](/img/m01_vacuum.jpg)
