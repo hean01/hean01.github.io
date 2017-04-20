@@ -2,13 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://hean01.github.io/post/degassing-mead/</loc>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hean01.github.io/post/m03-medium-mead/</loc>
     <lastmod>2017-04-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hean01.github.io/post/m02-jao-mead/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +23,7 @@
   
   <url>
     <loc>https://hean01.github.io/post/m01-my-first-mead/</loc>
-    <lastmod>2017-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,13 +38,13 @@
   
   <url>
     <loc>https://hean01.github.io/tags/brew/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/categories/brewing/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -51,7 +56,7 @@
   
   <url>
     <loc>https://hean01.github.io/categories/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,13 +68,13 @@
   
   <url>
     <loc>https://hean01.github.io/tags/mead/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -93,7 +98,7 @@
   
   <url>
     <loc>https://hean01.github.io/post/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,7 +110,7 @@
   
   <url>
     <loc>https://hean01.github.io/tags/</loc>
-    <lastmod>2017-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2017-04-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
