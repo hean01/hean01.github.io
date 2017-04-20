@@ -116,7 +116,7 @@ Now lets bulk age this mead and I will test it in 3 months.
 
 ### Day 19 - 2017-04-20
 
-I bought a Vaco Vin today, a manual pump tool with cap for wine
+I bought a [*"Vaco Vin"*](../degassing-mead) today, a manual pump tool with cap for wine
 bottles that is used to pump out air. This vacuum in draws out the co2
 in the mead to make it flat. The mead is definitly clearing up and
 there are some subtile sediment visible on the bottom, not that
