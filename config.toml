@@ -4,7 +4,7 @@ title = "Meandrous"
 theme = "beautifulhugo"
 
 [Params]
-	subtitle = "nothing about everything"
+	subtitle = "everything about nothing"
 	logo = "img/avatar.svg"
 	rss = true
 
@@ -14,9 +14,24 @@ theme = "beautifulhugo"
 	github = "hean01"
 
 [[menu.main]]
+	identifier = "mead"
+	name = "Mead recipes"
+	weight = 1
+
+[[menu.main]]
+	parent = "mead"
+	name = "JAO Mead"
+	url = "/post/JAO-mead"
+
+[[menu.main]]
+	parent = "mead"
+	name = "PGW show mead"
+	url = "/post/PGW-mead-startkit"
+
+[[menu.main]]
 	name = "Categories"
 	url = "/categories"
-	weight = 1
+	weight = 2
 
 [[menu.main]]
 	name = "Tags"
