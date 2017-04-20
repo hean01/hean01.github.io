@@ -1,6 +1,7 @@
 +++
 date = "2017-04-08"
 title = "JAO Mead"
+description = "Receipt of Joes Ancient Old Mead (JAO Mead)."
 tags = ["brew", "mead", "recipe", "melomel" ]
 categories = ["Brewing"]
 
@@ -50,3 +51,8 @@ This recipe is for one gallon mead.
 
 8. Fill and engage the airlock into the carboy and place it on a dark
    place with a temperature around 20° celcius.
+
+
+## Brew logs
+
+- [M02 - JAO Mead](../m02-jao-mead)

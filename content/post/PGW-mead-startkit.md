@@ -1,6 +1,7 @@
 +++
 date = "2017-03-31"
 title = "PGW Show mead starter kit"
+decription = "Receipt of PGW show mead from their starter kit."
 tags = ["brew", "mead", "recipe" ]
 categories = ["Brewing"]
 
