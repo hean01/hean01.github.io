@@ -73,12 +73,7 @@ weeks. When the fermentation is done you should:
 - Let it age in room temperature for 1-3 months
 
 
-## Brew log
+## Brew logs
 
-
-There are several minutes between each bubble in the airlock. There
-are no signs of bubbles in the mead. Seems to have reached a very slow
-fermentation process. There yeast seems to have settled on the bottom
-of the carboy and the mead seems a bit clearer then last days. I
-decided to rack this into another carboy to remove the sediment and
-measure the SG (Single Gravity) in one week eg. 2017-04-16.
+- [M01 - My first mead](../m01-my-first-mead)
+- [M03 - Medium mead](../m03-medium-mead)
