@@ -8,9 +8,12 @@ bigimg = [{src = "/img/m01_vacuum_cap.jpg"}]
 +++
 
 I read up on degassing process before bottling the mead and found the
-approach of using vacuum do draw out the gas from the mead. Further
-digging, I found that someone used a manual vacuum pump used for resealing
-opened wine bottles, which seemed like an easy solution.
+approach of using vacuum do draw out the gas from the mead. After some
+more digging into the subject I found that a manual vacuum pump, used
+for resealing opened wine bottles could be used for the purpose. This
+seemed to be a very simple approach to degassing. No need to dipping a
+tool that need to santized to swirl the mead. Just put the cap into
+the damejean and pump.
 
 Went to the supermarket here in Sweden and bough a product named *"Vacu
 Vin - Wine saver"*, which includes a pump and a cap, with option to
