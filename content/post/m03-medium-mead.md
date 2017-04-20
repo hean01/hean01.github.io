@@ -61,3 +61,18 @@ of 82 bpm @ 21:15.
 Today it is time for a stir to release oxygen / co2. I started with a
 reading of 92 bpm @ 08:00 and 64 bpm @ 18:30. Did the stirring at
 20:15 and let it settle a bit before another reading of 46.26 bpm.
+
+
+### Day 3 - 2017-04-20
+
+Today it is time to feed the yeast some nutrients and then let the
+mead stand to fermentation ends. I took three reading this day, first
+one 53 bpm @ 16:30, second one of 63.57 bpm @ 20:50. The third one was
+taken after Fermaid-K nutrients was added to the mead with 109.12 bpm
+@ 21:13.
+
+The nutrients are added without stirring the mead, just trying to
+spread it out throwing it into the carboy opening. Here is how it
+looks after a few seconds when added, it does dissovle pretty good.
+
+![preperation](/img/m03_72h_nutrient_feed.jpg)
