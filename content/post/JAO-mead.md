@@ -26,9 +26,9 @@ This recipe is for one gallon mead.
 
 1. Santize all of your equipment
 
-2. Remove the zest and remote the, pith to minimize off tasts that
-   needs racking for a longer time, from the orange. Cut it down into
-   1" squares and put aside.
+2. Remove the zest and the pith, to minimize off tasts that needs
+   racking for a longer time, from the orange. Cut it down into 1"
+   squares and put aside.
 
 3. Heat up water 2 litre of water to 30° celcius and stir up the honey
    into a must and pour into the carboy then add orange pieces,
