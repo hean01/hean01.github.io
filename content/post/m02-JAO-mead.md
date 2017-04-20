@@ -20,9 +20,10 @@ brew log, showing the fermentation process.
 
 ### Day 0 - 2017-04-09
 
-I followed the receipe from my earlier [blog post](../jao-mead). I
-measured the mead for an OG (Original Gravity) 1.093 and put the
-carboy on a kitchen bench for starting fermantation.
+I followed the receipe from my earlier
+[blog post](../jao-mead). Measured the mead for an OG (Original
+Gravity) 1.093 and put the carboy aside on the kitchen bench for
+starting fermantation.
 
 ![preperation](/img/jao_mead_preperation.jpg)
 
