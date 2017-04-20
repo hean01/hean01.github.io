@@ -4,7 +4,7 @@ title = "M02 - JAO mead"
 subtitle = "Log of brewing the JAO mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-18"
+lastmod = "2017-04-20"
 bigimg = [{src = "/img/jao_mead.jpg"}]
 +++
 
@@ -65,3 +65,10 @@ goes down the drain.
 This batch is continuing its fermentation in a steady speed compared
 to batch m01 and m03. Made a few burps per minute reading this day, started
 with 28 bpm @ 08:00, 15.8 bpm @ 18:20 and 19.34 bpm @ 20:25.
+
+
+### Day 11- 2017-04-20
+
+Another check in, fermentation goes on in a steady pace. Took two
+measurements and update the graph. Still smells really nice from the
+airlock, much nicer than the show meads batches.
