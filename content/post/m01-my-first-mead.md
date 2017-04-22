@@ -4,7 +4,8 @@ title = "M01 - My first mead"
 subtitle = "Log of brewing the PGW startkit show mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-20"
+lastmod = "2017-04-22"
+bigimg = [{src = "/img/m01_bottles.jpg"}]
 +++
 
 This post will be updated with a log of my journey brewing the show
@@ -128,3 +129,28 @@ and when there is not more visible bubbles raising I will rack to wine
 bottles.
 
 ![vacuum](/img/m01_vacuum.jpg)
+
+
+### Day 21 - 2017-03-22
+
+I have kept the vacuum cap on and now and then through the days been
+pumping up the vacuum. Today I can't see any buble raising at all
+through the bottle so I think it is time to bottle this mead. The mead
+has cleared a bit through the last days and I took a taste sample
+today. I can taste yeast, alcohol and honey, it is very dry almost a
+bit sour. The yeast and alcohol is very dominant and there is a small
+taste of honey which increased in after touch. There was a sticky
+residue on the glass when it stand to dry so thats a sign that there
+still is some sugor in this mead.
+
+I decided to bottle the mead today and will store them in our basement
+which is a bit chiller then in our apartment. I used a siphon and
+filled up four and 3/4 75cl whine bottles. Put a vacuum cap on the 3/4
+filled bottle to remote some oxygen.
+
+![bottles](/img/m01_bottles.jpg)
+
+Here follows and image showing the clearness a bit better of a filled
+bottled.
+
+![clearing](/img/m01_clearing.jpg)
