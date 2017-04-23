@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/tags/brewlog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M04 - Blueberry and Raspberry mead</title>
+      <link>https://hean01.github.io/post/m04-blueberry-raspberry-mead/</link>
+      <pubDate>Sun, 23 Apr 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/m04-blueberry-raspberry-mead/</guid>
+      <description>This is the brewlog for Blueberry and Raspberry mead recipe I put together. Here follows the fermentation graphs.
+I followed the recipe as advertised and was finished around 21:30. The must looks very dark as you can see in the picture below. Raspberry seeds seems to gather up on the bottom but the rest of fruit is floating at the top of the carboy.
+Here follows the fermentation graph over time for this mead.</description>
+    </item>
     
     <item>
       <title>M03 - Medium mead</title>
