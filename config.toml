@@ -20,6 +20,11 @@ theme = "beautifulhugo"
 
 [[menu.main]]
 	parent = "mead"
+	name = "BlueRasp Mead"
+	url = "/post/Blueberry-Raspberry-mead"
+
+[[menu.main]]
+	parent = "mead"
 	name = "JAO Mead"
 	url = "/post/JAO-mead"
 
