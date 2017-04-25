@@ -76,3 +76,11 @@ spread it out throwing it into the carboy opening. Here is how it
 looks after a few seconds when added, it does dissovle pretty good.
 
 ![preperation](/img/m03_72h_nutrient_feed.jpg)
+
+
+### Day 8 - 2017-04-25
+
+I have checked the mead over the days and taken bpm readings for the
+fermentation graph. The active fermentation is definitly rolling off
+and I plan to rack the mead off its sediment on sunday this week,
+eg. day 13 of the fermentation.

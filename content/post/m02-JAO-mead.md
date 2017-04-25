@@ -68,8 +68,17 @@ to batch m01 and m03. Made a few burps per minute reading this day, started
 with 28 bpm @ 08:00, 15.8 bpm @ 18:20 and 19.34 bpm @ 20:25.
 
 
-### Day 11- 2017-04-20
+### Day 11 - 2017-04-20
 
 Another check in, fermentation goes on in a steady pace. Took two
 measurements and update the graph. Still smells really nice from the
 airlock, much nicer than the show meads batches.
+
+
+### Day 16 - 2017-04-25
+
+More then two weeks has passed and the mead is still fermentaing but
+is rolling off from the active period. I'm worried about fruits
+floating to build up some mold, no off smells yet but I think I can
+see some build up on the orange fruits floating at top of mead. To be
+on the safe side I will do this tomorrow.
