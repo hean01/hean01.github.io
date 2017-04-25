@@ -54,3 +54,19 @@ fermentation and co2 release. I measured a bpm of 88.70 @ 21:15.
 The most stuff scooped out is the seeds from the raspberries and a few
 blueberries. I need to overwatch this for a few hours and scoop out
 more when they raise up through the carboy neck.
+
+### Day 2 - 2017-04-25
+
+Yesterday I kept a good eye on the fermentation after scooping out
+some raspberry seeds and the problem with stuff clogging up the neck
+of the carboy went away. I also took a taste of the must and it was a
+very nice tasting must. A bit too sweet but there is lot of time for
+left for the yeast to eat up some of that. I hope that the end result
+is as refreshing as this sample I tasted.
+
+This morning I checked in on the mead and the fermentation is steady
+and no signs of overflows. It smells very nice. There is a thick layer
+on the bottom with fruit residues and seeds so I think that I want to
+rack the mead off this bed to be on safe side from having off tastes,
+which is just speculation from my side. I plan to do this tomorrow and
+after racking I will feed with 1.5g Fermaid-K nutrients.
