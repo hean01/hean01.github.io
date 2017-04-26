@@ -90,3 +90,5 @@ I racked this mead today off the fruits and sediment. I also took a
 taste of it and the most significant tastes are alcohol and the
 clove. Almost no resamblance of orange and yeast. Feels like this is
 set to go for aging. I did not take a gravity reading.
+
+![first_rack](/img/m02_first_rack.jpg)
