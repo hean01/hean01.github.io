@@ -4,7 +4,7 @@ title = "M04 - Blueberry and Raspberry mead"
 subtitle = "Log of brewing the blueberry and raspberry mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-24"
+lastmod = "2017-04-26"
 bigimg = [{src = "/img/m04_blueraspmead.jpg"}]
 +++
 
@@ -70,3 +70,9 @@ on the bottom with fruit residues and seeds so I think that I want to
 rack the mead off this bed to be on safe side from having off tastes,
 which is just speculation from my side. I plan to do this tomorrow and
 after racking I will feed with 1.5g Fermaid-K nutrients.
+
+### Day 3 - 2017-04-26
+
+I decided to not rack this mead off the seeds. I followed the PGW
+receipe and added 1.5g Fermaid-K after I gave the mead a stir to
+release oxygen and co2.

@@ -4,7 +4,7 @@ title = "M02 - JAO mead"
 subtitle = "Log of brewing the JAO mead"
 tags = ["brew", "mead", "brewlog" ]
 categories = ["Brewing"]
-lastmod = "2017-04-20"
+lastmod = "2017-04-26"
 bigimg = [{src = "/img/jao_mead.jpg"}]
 +++
 
@@ -82,3 +82,11 @@ is rolling off from the active period. I'm worried about fruits
 floating to build up some mold, no off smells yet but I think I can
 see some build up on the orange fruits floating at top of mead. To be
 on the safe side I will do this tomorrow.
+
+
+### Day 17 - 2017-04-26
+
+I racked this mead today off the fruits and sediment. I also took a
+taste of it and the most significant tastes are alcohol and the
+clove. Almost no resamblance of orange and yeast. Feels like this is
+set to go for aging. I did not take a gravity reading.
