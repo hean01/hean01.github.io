@@ -84,3 +84,10 @@ I have checked the mead over the days and taken bpm readings for the
 fermentation graph. The active fermentation is definitly rolling off
 and I plan to rack the mead off its sediment on sunday this week,
 eg. day 13 of the fermentation.
+
+
+### Day 12 - 2017-04-29
+
+I racked this mead today. Took a SG reading of almost exactly 0.0
+which indicates that this is not that sweet as I wanted it to be,
+eg. around 0.01.
