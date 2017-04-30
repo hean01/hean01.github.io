@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/tags/brewlog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>M05 - Pineapple and Coconut mead</title>
+      <link>https://hean01.github.io/post/m05-pineapple-coconut-mead/</link>
+      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/m05-pineapple-coconut-mead/</guid>
+      <description>This is the brewlog for Pineapple and Coconut mead recipe I put together.
+Here follows the fermentation graph over time for this mead.
+     #chart_container { position: relative; font-family: Arial, Helvetica, sans-serif; } #chart { position: relative; left: 40px; } .rickshaw_graph .x_tick .title { bottom: -24px; left: -18px; } #y_axis { position: absolute; top: 0; bottom: 0; width: 40px; }       $.</description>
+    </item>
     
     <item>
       <title>M04 - Blueberry and Raspberry mead</title>
