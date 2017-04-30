@@ -25,6 +25,11 @@ theme = "beautifulhugo"
 
 [[menu.main]]
 	parent = "mead"
+	name = "Pineapple Coconut Mead"
+	url = "/post/Pineapple-Coconut-mead"
+
+[[menu.main]]
+	parent = "mead"
 	name = "JAO Mead"
 	url = "/post/JAO-mead"
 
