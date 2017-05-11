@@ -98,4 +98,17 @@ set to go for aging. I did not take a gravity reading.
 
 I needed the airlock for another batch so I replaced it with a VacoVin
 cap and started to pump up a vacuum, degassing this mead. I need to
-pump up the vacuum with about 6 hours interval.
+pump up the vacuum with about 6 hours interval. I also ordered an
+additional carboy and water lock so I have equipment for racking.
+
+### Day 24 - 2017-05-03
+
+The new airlock delivered today and I replaced the VacuVin
+cap. However it has another design then the old one so I will stop
+measuring burps per minute for this batch.
+
+
+### Day 33 - 2017-05-12
+
+I checked this batch and found a layer of sediment has built up, some
+burps are noted. Lets rack this batch to new carboy 2017-05-27.
