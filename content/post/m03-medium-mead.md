@@ -89,5 +89,12 @@ eg. day 13 of the fermentation.
 ### Day 12 - 2017-04-29
 
 I racked this mead today. Took a SG reading of almost exactly 0.0
-which indicates that this is not that sweet as I wanted it to be,
-eg. around 0.01.
+which indicates that this is not that sweet as I wanted it to be, near
+0.010.
+
+### Day 25 - 2017-05-12
+
+I checked in to this mead, no signs of burps in air lock. I took a
+smell sample and heavy yeast and alcohol smell hit my nose. There is
+no sign of sediment gathering up on the bottom of the carboy. Lets
+rack this batch 2017-05-29 to bottles and take a SG reading.

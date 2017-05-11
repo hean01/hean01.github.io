@@ -76,3 +76,12 @@ after racking I will feed with 1.5g Fermaid-K nutrients.
 I decided to not rack this mead off the seeds. I followed the PGW
 receipe and added 1.5g Fermaid-K after I gave the mead a stir to
 release oxygen and co2.
+
+
+### Day 10 - 2017-05-03
+
+Today I racked the mead off the fruits and sediment. I took a SG
+measure of 0.002 and a taste sample. The raspberry taste is heavy and
+I could not find anything that tasted blueberry. Lets let this batch
+settle for a month before I do another rack of the mead.
+
