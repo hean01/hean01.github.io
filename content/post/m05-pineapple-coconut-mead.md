@@ -28,6 +28,26 @@ very greate sweet mead for a hot summer day.
 ### Day 1 - 2017-04-30
 
 I checked the mead at 07:16 and it smells nice. The fermentation has
-started and I measured 14 burps per minute.
+started and I measured 14 burps per minute. At 22:00, I fed the mead
+with 1.5g Fermaid-K and stired carefully.
 
 ![fermentation](/img/m05_fermentation.jpg)
+
+
+### Day 2 - 2017-05-01
+
+At 21:30, I stired the mead carefully to release oxygen. I noticed
+some oily almost like butter which definitly comes from the coconut on
+the stick I used for stirring. This really worries me a bit, however
+it is very thick like butter so I hope it wont disolve into the
+mead. As fast as fermentation rolls off I will rack the mead of this
+stuff.
+
+
+### Day 3 - 2017-05-02
+
+Its time for another stirring and feeding with Fermaid-K. I could
+smell something strange which I belive is the coconut "butter". I took
+a taste sample and found that the balance of honey flower, pineapple
+and coconut is wonderful. No off tastes at all. The honey and coconute
+serves as a base with the fruitness of pineapple on top.

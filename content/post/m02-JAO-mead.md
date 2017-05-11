@@ -92,3 +92,10 @@ clove. Almost no resamblance of orange and yeast. Feels like this is
 set to go for aging. I did not take a gravity reading.
 
 ![first_rack](/img/m02_first_rack.jpg)
+
+
+### Day 20 - 2017-04-29
+
+I needed the airlock for another batch so I replaced it with a VacoVin
+cap and started to pump up a vacuum, degassing this mead. I need to
+pump up the vacuum with about 6 hours interval.
