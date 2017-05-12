@@ -52,7 +52,7 @@ a taste sample and found that the balance of honey flower, pineapple
 and coconut is wonderful. No off tastes at all. The honey and coconute
 serves as a base with the fruitness of pineapple on top.
 
-### Day X - 2017-05-12
+### Day 13 - 2017-05-12
 
 Took some reading of 3.17 bpm @ 01:00, it smells really good and it
 looks like some clearing has started. There is lot of sediments and
