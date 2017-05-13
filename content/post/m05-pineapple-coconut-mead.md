@@ -57,3 +57,17 @@ serves as a base with the fruitness of pineapple on top.
 Took some reading of 3.17 bpm @ 01:00, it smells really good and it
 looks like some clearing has started. There is lot of sediments and
 fruits so lets rack this batch this weekend.
+
+
+### Day 14 - 2017-05-13
+
+I took the time to rack this mead into a secondary fermenter. I
+measured a SG of 0.000 and took a taste sample. It is very dry and
+strong, pineapple taste is obvious and an aftertouch of sweetness.
+There is no taste of coconut at all and I will add coconut to the
+econd fermenter. This time I will roast my coconut shavings before
+adding them to the mead, to remove the oils. I really do not want to
+add that butter goey stuff that build up from raw coconut to this
+rack.
+
+![tastesample](/img/m05_tastesample.jpg)
