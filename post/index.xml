@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Sun, 30 Apr 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 May 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mead numbers and math examples</title>
+      <link>https://hean01.github.io/post/mead-numbers/</link>
+      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/mead-numbers/</guid>
+      <description>In this post I will talk about how to calculate sugar volumes for targeting a specific sweetness and or alcohol of a mead. In a recipe the final gravity is your target and you will choose a yeast to control the ABV and on top of that the amount of honey. Here follows a table of ranges of final gravity for a mead for different sweetness.
+   Sweetness Oechele Gravity     Dry 0.</description>
+    </item>
     
     <item>
       <title>M05 - Pineapple and Coconut mead</title>
