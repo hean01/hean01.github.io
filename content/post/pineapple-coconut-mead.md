@@ -13,7 +13,7 @@ PGW show mead recipe but increasing the amount of honey to 3 x 650g
 for a sweet mead.
 
 
-* 5dl coconut flakes
+* 5dl + 3dl coconut flakes
 * 1 pineapple, about 1 litre of pineapple cubes
 * 1.95 Kg wild flower honey
 * 2.5g Lavlin D47 yeast
@@ -60,6 +60,13 @@ stir once again to release oxygen from the mead.
 After 78 hours from the time when the yeast was added to the mead, add
 1.5g Fermaid-K nutrients, the lasting content of the package to the
 mead. You should not stir the mead.
+
+After 2 weeks rack the mead into a new carboy and add 3dl roasted
+coconut. Roast the coconut flakes in a pan on the stove to get
+a roasting that looks like this.
+
+![roasted](/img/m05_roasted_coconut.jpg)
+
 
 ## Brew logs
 

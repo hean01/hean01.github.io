@@ -71,3 +71,12 @@ add that butter goey stuff that build up from raw coconut to this
 rack.
 
 ![tastesample](/img/m05_tastesample.jpg)
+
+
+### Day 16 - 2017-05-14
+
+Today I rosted 3dl of coconut flakes in a pan and pitched it into the
+second fermentation. Roasting the coconut to hopefully make them lesser
+oily.
+
+![roasted](/img/m05_roasted_coconut.jpg)
