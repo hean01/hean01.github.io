@@ -7,9 +7,9 @@ categories = ["Brewing"]
 bigimg = [{src = "/img/bravo_apple_cider.jpg"}]
 +++
 
-I got interested to bew a hard cider to this midsummer. I found that
+I got interested to brew a hard cider to this midsummer. I found that
 someone had success to brew a cider on a specific store bought apple
-cider (Bravo äppel juice) available here in sweden. So this is my go
+cider (Bravo äppel juice) available here in Sweden. So this is my go
 at that.
 
 The docket on the juice package told me that there are 9.5g sugar per
@@ -23,9 +23,9 @@ This recipe is for 5 liter ciders follows:
 * 5l Bravo apple juice
 
 
-## Receipe
+## Recipe
 
-1. Santize all of your equipment
+1. Sanitize all of your equipment
 
 2. Let the apple juice reach room temperature, max 25° celcius and
    fill up the carboy.
@@ -36,15 +36,15 @@ This recipe is for 5 liter ciders follows:
 
 5. Boil 50-80ml water and let it cool to 25° degrees.
 
-5. Add 3g of Fermaid-K to the water and wait 10 minutes
+6. Add 3g of Fermaid-K to the water and wait 10 minutes
 
-6. Add 2.5g EC-1118 yeast to the solution
+7. Add 2.5g EC-1118 yeast to the solution
 
-6. Do another aeritation shake of the carboy and then pitch the
-   rehydrated yeast into the carboy.
+8. Do another aeritation shake of the carboy and then pitch the
+   re-hydrated yeast into the carboy.
 
-8. Fill and engage the airlock into the carboy and place it on a dark
-   place with a temperature around 20° celcius.
+9. Fill and engage the airlock into the carboy and place it on a dark
+   place with a temperature around 20° Celsius.
 
 
 ## Brew logs
