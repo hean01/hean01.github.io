@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hean01.github.io/post/bravo-apple-juice-cider/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hean01.github.io/post/c01-bravo-juice-cider/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://hean01.github.io/post/mead-numbers/</loc>
@@ -63,25 +74,31 @@
   
   <url>
     <loc>https://hean01.github.io/tags/brew/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/categories/brewing/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/tags/brewlog/</loc>
-    <lastmod>2017-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/categories/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hean01.github.io/tags/cider/</loc>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +116,7 @@
   
   <url>
     <loc>https://hean01.github.io/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -123,19 +140,19 @@
   
   <url>
     <loc>https://hean01.github.io/post/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/tags/recipe/</loc>
-    <lastmod>2017-04-29T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://hean01.github.io/tags/</loc>
-    <lastmod>2017-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

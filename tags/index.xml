@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Sun, 14 May 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Brew</title>
       <link>https://hean01.github.io/tags/brew/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       <author>henrik.4e@gmail.com (Henrik Andersson)</author>
       <guid>https://hean01.github.io/tags/brew/</guid>
       <description></description>
@@ -25,9 +25,18 @@
     <item>
       <title>Brewlog</title>
       <link>https://hean01.github.io/tags/brewlog/</link>
-      <pubDate>Sun, 30 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       <author>henrik.4e@gmail.com (Henrik Andersson)</author>
       <guid>https://hean01.github.io/tags/brewlog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cider</title>
+      <link>https://hean01.github.io/tags/cider/</link>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/tags/cider/</guid>
       <description></description>
     </item>
     
@@ -70,7 +79,7 @@
     <item>
       <title>Recipe</title>
       <link>https://hean01.github.io/tags/recipe/</link>
-      <pubDate>Sat, 29 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 30 May 2018 00:00:00 +0000</pubDate>
       <author>henrik.4e@gmail.com (Henrik Andersson)</author>
       <guid>https://hean01.github.io/tags/recipe/</guid>
       <description></description>

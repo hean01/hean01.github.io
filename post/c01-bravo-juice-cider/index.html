@@ -6,19 +6,22 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Categories</title>
-  <meta property="og:title" content="Categories" />
-  <meta name="twitter:title" content="Categories" />
+  <title>C01 - Bravo apple juice cider</title>
+  <meta property="og:title" content="C01 - Bravo apple juice cider" />
+  <meta name="twitter:title" content="C01 - Bravo apple juice cider" />
+  <meta name="description" content="Log of brewing a bravo apple juice cider">
+  <meta property="og:description" content="Log of brewing a bravo apple juice cider">
+  <meta name="twitter:description" content="Log of brewing a bravo apple juice cider">
   <meta name="author" content="Henrik Andersson"/>
   <meta property="og:image" content="https://hean01.github.io/img/avatar.svg" />
   <meta name="twitter:image" content="https://hean01.github.io/img/avatar.svg" />
   <meta name="twitter:card" content="summary" />
-  <meta property="og:url" content="https://hean01.github.io/categories/" />
+  <meta property="og:url" content="https://hean01.github.io/post/c01-bravo-juice-cider/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Meandrous" />
 
   <meta name="generator" content="Hugo 0.40.3" />
-  <link rel="canonical" href="https://hean01.github.io/categories/" />
+  <link rel="canonical" href="https://hean01.github.io/post/c01-bravo-juice-cider/" />
   <link rel="alternate" href="https://hean01.github.io/index.xml" type="application/rss+xml" title="Meandrous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
@@ -109,17 +112,57 @@
 
 
   
+    <div id="header-big-imgs" data-num-img=1 data-img-src-1="https://hean01.github.io/img/c01_setup.jpg" ></div>
+  
 
-  <header class="header-section ">
+  <header class="header-section has-img">
+    
+      <div class="intro-header big-img">
+        
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+              <div class="post-heading">
+                <h1>C01 - Bravo apple juice cider</h1>
+                  
+                    
+                      <h2 class="post-subheading">Log of brewing a bravo apple juice cider</h2>
+                    
+                  
+                  
+                    <span class="post-meta">
+  Posted on May 30, 2018
+  
+</span>
+
+
+                  
+              </div>
+            </div>
+          </div>
+        </div>
+        <span class="img-desc" style="display: inline;"></span>
+      </div>
     
     <div class="intro-header no-img">
       
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="categories-heading">
-              <h1>Categories</h1>
+            <div class="post-heading">
+              <h1>C01 - Bravo apple juice cider</h1>
                 
+                  
+                    <h2 class="post-subheading">Log of brewing a bravo apple juice cider</h2>
+                  
+                
+                
+                  <span class="post-meta">
+  Posted on May 30, 2018
+  
+</span>
+
+
                 
             </div>
           </div>
@@ -130,20 +173,122 @@
 
 
 
+    <div class="container" role="main">
+      
+        <div class="row">
+  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <article role="main" class="blog-post">
+      
+
+<p>This post will be updated with a log of my journey brewing the a Bravo
+apple juice hard cider using the reciepe mentioned in post <a href="../bravo-apple-juice-cider/">blog post</a>.</p>
+
+
+
+<link type="text/css" rel="stylesheet" href="/css/graph.css">
+<script src="/js/jquery-3.2.1.min.js"></script>
+<script src="/js/d3.v3.js"></script>
+<script src="/js/rickshaw.min.js"></script>
+<script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+
+<style>
+#chart_container {
+        position: relative;
+        font-family: Arial, Helvetica, sans-serif;
+}
+#chart {
+        position: relative;
+        left: 40px;
+}
+
+.rickshaw_graph .x_tick .title {
+    bottom: -24px;
+    left: -18px;
+}
+
+#y_axis {
+position: absolute;
+top: 0;
+bottom: 0;
+width: 40px;
+}
+</style>
+
+<div id="chart_container">
+  <div id="y_axis"></div>
+  <div id="chart"></div>
+  <div id="x_axis"></div>
+</div>
+<script>
+
+$.getJSON("/json/c01_bpm.json", function(data) {
+
+    var graph = new Rickshaw.Graph({
+	element: document.getElementById("chart"),
+	width: 480,
+	stroke: true,
+	renderer: 'area',
+	xScale: d3.time.scale(),
+	series: [{color: 'steelblue', data: data }]
+    });
+
+    graph.render();
+
+    var xAxis = new Rickshaw.Graph.Axis.Time({
+	graph: graph,
+	orientation: 'bottom',
+	element: document.getElementById('x_axis'),
+    });
+    xAxis.render();
+
+    var yAxis = new Rickshaw.Graph.Axis.Y({
+	graph: graph,
+	orientation: 'left',
+	element: document.getElementById('y_axis'),
+    });
+    yAxis.render();
+
+});
+
+</script>
+
+
+<p>Above is a graph of measured burps per minute (bpm) over time of this
+brew log, showing the activity of the fermentation process.</p>
+
+<h3 id="day-0-2017-05-22">Day 0 - 2017-05-22</h3>
+
+<p>I followed the receipe from the begin to end and was about spot on
+every step. I measured the mead for an OG (Original Gravity) 1.050 and
+put the carboy in a good place for fermentation.</p>
+
+<h3 id="day-8-2017-05-30">Day 8 - 2017-05-30</h3>
+
+<p>The fermentation activity is rounding off and i think its time for for
+measure the FG. The cider is starting to clear up and stuff is
+settling at the bottom of the carboy.</p>
+
+    </article>
+
+    <ul class="pager blog-pager">
+      
+        <li class="previous">
+          <a href="https://hean01.github.io/post/mead-numbers/" data-toggle="tooltip" data-placement="top" title="Mead numbers and math examples">&larr; Previous Post</a>
+        </li>
+      
+      
+        <li class="next">
+          <a href="https://hean01.github.io/post/bravo-apple-juice-cider/" data-toggle="tooltip" data-placement="top" title="Bravo Apple juice Cider">Next Post &rarr;</a>
+        </li>
+      
+    </ul>
+
     
 
-    <div class="container" role="main">
-      <article class="post-preview">
-        <div class="list-group col-lg-4 col-lg-offset-4 col-md-6 col-md-offset-3">
-        
-        <a href="/categories/brewing" class="list-group-item">
-            brewing<span class="badge">13</span></a>
-        
-        <a href="/categories/electronic-music" class="list-group-item">
-            electronic-music<span class="badge">1</span></a>
-        
-        </div>
-      </article>
+  </div>
+</div>
+
+      
     </div>
 
     <footer>
