@@ -14,7 +14,8 @@ at that.
 
 The docket on the juice package told me that there are 9.5g sugar per
 100ml. This means 95g per liter and that would give me a cider with
-approximated ABV of 5.6% when fully fermented.
+approximated ABV of 5.6% when fully fermented. I measured an OG of
+1.050 for the juice.
 
 This recipe is for 5 liter ciders follows:
 
@@ -45,6 +46,21 @@ This recipe is for 5 liter ciders follows:
 
 9. Fill and engage the airlock into the carboy and place it on a dark
    place with a temperature around 20° Celsius.
+
+### Bottling day
+
+When the fermentation has stopped, eg. measuring an gravity of ~1.000
+its time for bottling. I used 10g table sugar per liter for
+priming, which will give you an FG of ~1.010.
+
+1. Measure 50g of sugar pour over 1dl hot water to dissolve the sugar
+
+2. Add an additional 1dl cold water to drop down temperature
+
+3. Measure a the sugar water to temperature of 25° Celsius befor
+   pitching into the carboy
+
+4. Stir gently and start filling up your bottles
 
 
 ## Brew logs
