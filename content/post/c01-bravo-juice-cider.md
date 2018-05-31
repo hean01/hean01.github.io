@@ -41,4 +41,4 @@ The measure FG when botteling were measured to 1.010.
 
 I took a taste sample and its pretty good flat as it is.
 
-![sample](/img/c01_sample.jpg)
+![sample](/img/c01-sample.jpg)
