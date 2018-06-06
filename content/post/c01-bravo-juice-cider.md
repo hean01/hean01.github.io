@@ -37,8 +37,22 @@ room temperature for at least a week and keep watch on them for the
 pressure build up. I used PET bottles and felt how squeezable they
 were.
 
-The measure FG when botteling were measured to 1.010.
+The measure FG when bottling were measured to 1.010.
 
 I took a taste sample and its pretty good flat as it is.
 
 ![sample](/img/c01-sample.jpg)
+
+### Day 13 - 2017-06-05
+
+For the last few days I have squeezed the PET bottles to get a feel
+for the development of carbonation. Today I tried one, put one in a
+fridge for 40 minutes to chill it and poured. There are a small hint
+of yeast smell and it was way to dry. I want my cider dry but this was
+really tart and dry, I guess the 10g priming sugar has fermented in
+full. I tried some back sweetening using Bravo apple juice and got
+closer to what I prefer.
+
+The cider was carbonated but not enough, about 70% of target. I will
+let these bottles stand for additional a week before I cold crash them
+and try one more.
