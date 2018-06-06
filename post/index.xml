@@ -8,10 +8,20 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Wed, 30 May 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>C02 - Bravo apple juice cider high ABV</title>
+      <link>https://hean01.github.io/post/c02-bravo-cider-habv/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/c02-bravo-cider-habv/</guid>
+      <description>I have bought a co2 regulator with trapetz adapter for connection to a 430g &amp;ldquo;soda stream&amp;rdquo; c02 bottle and a PET adapter to push co2 into PET bottles. This allows me to kill the yeast, clear the brew and do back sweetening before bottling.
+This brew will be based on blog post but with following modification; Add more sugar for higer ABV to compensate for the back sweetening using Bravo juice.</description>
+    </item>
     
     <item>
       <title>Bravo Apple juice Cider</title>
