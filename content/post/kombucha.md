@@ -5,6 +5,7 @@ subtitle = "Kombucha, The elixir of life"
 tags = ["brew", "kombucha", "recipe" ]
 categories = ["Brewing"]
 lastmod = "2018-06-06"
+bigimg = [{src = "/img/kombucha.jpg"}]
 +++
 
 Kombucha is a non alcoholic fermented beverage which is produced using
@@ -87,3 +88,5 @@ SCOBY.
 When bottling you can prime with table sugar or fruit juices etc. to
 build up carbonation. Same process as for any bottle primed beverage
 for carbonation, 6-10g sugar per liter.
+
+![roasted](/img/kombucha_bottles.jpg)
