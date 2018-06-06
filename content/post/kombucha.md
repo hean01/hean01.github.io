@@ -1,7 +1,7 @@
 +++
 date = "2018-06-06"
 title = "Continuous brew of Kombucha"
-subtitle = "Kombucha, elexir of life"
+subtitle = "Kombucha, The elixir of life"
 tags = ["brew", "kombucha", "recipe" ]
 categories = ["Brewing"]
 lastmod = "2018-06-06"
