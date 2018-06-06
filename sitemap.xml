@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://hean01.github.io/post/kombucha/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hean01.github.io/post/bravo-apple-juice-cider/</loc>
     <lastmod>2018-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -119,6 +124,12 @@
   </url>
   
   <url>
+    <loc>https://hean01.github.io/tags/kombucha/</loc>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hean01.github.io/tags/mead/</loc>
     <lastmod>2017-05-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -156,7 +167,7 @@
   
   <url>
     <loc>https://hean01.github.io/tags/recipe/</loc>
-    <lastmod>2018-05-30T00:00:00+00:00</lastmod>
+    <lastmod>2018-06-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

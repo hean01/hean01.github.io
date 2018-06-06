@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kombucha on Meandrous</title>
+    <link>https://hean01.github.io/tags/kombucha/</link>
+    <description>Recent content in Kombucha on Meandrous</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
+    <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
+    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hean01.github.io/tags/kombucha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Continuous brew of Kombucha</title>
+      <link>https://hean01.github.io/post/kombucha/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/kombucha/</guid>
+      <description>Kombucha is a non alcoholic fermented beverage which is produced using a symbiotic culture of bacteria and yeast (SCOBY) and sweetened black tea. You can do batches of Kombucha or setup a continuous brewing, this blog will describe the process of continuous brewing.
+First you need to get hold on a SCOBY, you can either buy one online or grow one by your self. To grow one your self you need to get hold on a unpasteurized Kombucha drink.</description>
+    </item>
+    
+  </channel>
+</rss>
