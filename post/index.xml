@@ -8,10 +8,28 @@
     <language>en-us</language>
     <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
     <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hean01.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gingerbeer</title>
+      <link>https://hean01.github.io/post/gingerbeer/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/gingerbeer/</guid>
+      <description> Recipe  10L water  </description>
+    </item>
+    
+    <item>
+      <title>Gingerbug</title>
+      <link>https://hean01.github.io/post/gingerbug/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
+      <guid>https://hean01.github.io/post/gingerbug/</guid>
+      <description>Gingerbug is a probiotic starter culture for making homemade soda, ginger beer etc. A gingerbug is very simple to create and it will take approximate 4-6 days to get one ready for use. Then it is added to a soda tea and bottled to build up a nice fizzy soda. This receipe is will give you about 1L of gingerbug and it is good for a 10 to 15L final product.</description>
+    </item>
     
     <item>
       <title>C02 - Bravo apple juice cider high ABV</title>
