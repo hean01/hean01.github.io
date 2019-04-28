@@ -1,134 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Meandrous</title>
-    <link>https://hean01.github.io/tags/</link>
-    <description>Recent content in Tags on Meandrous</description>
+    <title>Tags on </title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>henrik.4e@gmail.com (Henrik Andersson)</managingEditor>
-    <webMaster>henrik.4e@gmail.com (Henrik Andersson)</webMaster>
-    <lastBuildDate>Wed, 06 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hean01.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Brew</title>
-      <link>https://hean01.github.io/tags/brew/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/brew/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Brewlog</title>
-      <link>https://hean01.github.io/tags/brewlog/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/brewlog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cider</title>
-      <link>https://hean01.github.io/tags/cider/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/cider/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fermentation</title>
-      <link>https://hean01.github.io/tags/fermentation/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/fermentation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gingerbeer</title>
-      <link>https://hean01.github.io/tags/gingerbeer/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/gingerbeer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Gingerbug</title>
-      <link>https://hean01.github.io/tags/gingerbug/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/gingerbug/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kombucha</title>
-      <link>https://hean01.github.io/tags/kombucha/</link>
-      <pubDate>Wed, 06 Jun 2018 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/kombucha/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mead</title>
-      <link>https://hean01.github.io/tags/mead/</link>
-      <pubDate>Sun, 14 May 2017 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/mead/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Melomel</title>
-      <link>https://hean01.github.io/tags/melomel/</link>
-      <pubDate>Sat, 08 Apr 2017 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/melomel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Midi</title>
-      <link>https://hean01.github.io/tags/midi/</link>
-      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/midi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Music</title>
-      <link>https://hean01.github.io/tags/music/</link>
-      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Recipe</title>
-      <link>https://hean01.github.io/tags/recipe/</link>
-      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/recipe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Volca</title>
-      <link>https://hean01.github.io/tags/volca/</link>
-      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
-      <author>henrik.4e@gmail.com (Henrik Andersson)</author>
-      <guid>https://hean01.github.io/tags/volca/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
